@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7268de3.css",
-    "main.js": "/static/js/main.a0084b73.js",
-    "static/js/453.ea2e7abe.chunk.js": "/static/js/453.ea2e7abe.chunk.js",
-    "static/media/chess_video.mp4": "/static/media/chess_video.cfa37fcc92cc91ea9cc2.mp4",
-    "index.html": "/index.html",
-    "main.d7268de3.css.map": "/static/css/main.d7268de3.css.map",
-    "main.a0084b73.js.map": "/static/js/main.a0084b73.js.map",
-    "453.ea2e7abe.chunk.js.map": "/static/js/453.ea2e7abe.chunk.js.map"
+    "main.css": "/techastra/static/css/main.d7268de3.css",
+    "main.js": "/techastra/static/js/main.0410f460.js",
+    "static/js/453.ea2e7abe.chunk.js": "/techastra/static/js/453.ea2e7abe.chunk.js",
+    "static/media/chess_video.mp4": "/techastra/static/media/chess_video.cfa37fcc92cc91ea9cc2.mp4",
+    "index.html": "/techastra/index.html",
+    "main.d7268de3.css.map": "/techastra/static/css/main.d7268de3.css.map",
+    "main.0410f460.js.map": "/techastra/static/js/main.0410f460.js.map",
+    "453.ea2e7abe.chunk.js.map": "/techastra/static/js/453.ea2e7abe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7268de3.css",
-    "static/js/main.a0084b73.js"
+    "static/js/main.0410f460.js"
   ]
 }
